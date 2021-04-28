@@ -9,6 +9,7 @@
   "author": "aktarulislam.com",
   "devDependencies": {
     "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@types/chrome": "^0.0.132",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
